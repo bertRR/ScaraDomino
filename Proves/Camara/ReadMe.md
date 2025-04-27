@@ -1,6 +1,21 @@
 Informacio treta per la Vercio Antiga de [Aqui]([https://www.330ohms.com/es-es/blogs/blog/como-conectar-un-servo-sg90-a-raspberry-pi?srsltid=AfmBOor-O4VFHjE5DnS4vytMQK5Mw3PyIESZhbYzZTDrewBc-7A2n9FJ](https://www.taloselectronics.com/blogs/tutoriales/camara-para-raspberry-v2)).
 
 
+
+
+
+
+
+-----------------------------(  No Se Si Funciona  )----------------------------------
+
+ - sudo apt-get update
+ - sudo apt-get upgrade -y
+ - sudo apt-get install python3-pip libcap-dev -y
+ - sudo pip3 install picamera2 --break-system-packages
+ - 
+
+
+
 Necesitem Vercio Moderna:
  - sudo apt-get update # Bona pràctica per actualitzar la llista abans d'instal·lar
  - sudo apt-get install libcap-dev
@@ -8,9 +23,6 @@ Necesitem Vercio Moderna:
  - sudo pip3 install picamera2 --break-system-packages: el "--break-system-packages" ignara Atbertencies
  - sudo apt-get install libcamera libcamera-dev
  - sudo reboot: Aixo reinicia la Raspberry Pi
-
-
-
 
 Necesitem Vercio Antiga (NO UTILITZAR!!!) :
   - sudo apt-get update: Per poder executar "sudo apt-get install python3-pip" sense errors
