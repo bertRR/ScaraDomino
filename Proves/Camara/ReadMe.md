@@ -11,7 +11,7 @@ Informacio treta per la Vercio Antiga de [Aqui](https://www.taloselectronics.com
  - sudo apt-get update
  - sudo apt-get upgrade -y
  - sudo apt-get install python3-pip libcap-dev -y
- - sudo pip3 install picamera2 --break-system-packages
+ - sudo apt install python3-picamera2
  - 
 
 
