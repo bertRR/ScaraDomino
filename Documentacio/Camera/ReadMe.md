@@ -7,4 +7,4 @@ Pagines de posible interes:
 
 Dcouments:
  - picamera2-manual.pdf: Com utilitzar la llibreria de la camara
- - ConfirmarCamaraOperativa.md: Descripcio de 2 comandaments per a confirmar que la camara esta conectada o no
+ - ConfirmarCamaraOperativa.md: Descripcio de diversos comandaments per a confirmar que la camara esta conectada o no de diferents comversacions
