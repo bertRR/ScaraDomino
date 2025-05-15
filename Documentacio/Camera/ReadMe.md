@@ -1,4 +1,4 @@
-- la versio actual de la camara actual es la 2V -
+- - la versio actual de la camara actual es la 2V - -
 
 Pagines de posible interes:
  - https://www.raspberrypi.com/documentation/accessories/camera.html
