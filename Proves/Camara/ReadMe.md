@@ -6,7 +6,7 @@ Informacio treta per la Vercio Antiga de [Aqui](https://www.taloselectronics.com
 
 
 
------------------------------(  No Se Si Funciona  )----------------------------------
+-----------------------------(  Intens amb la Camara entiga  )----------------------------------
 
  - sudo apt-get update
  - sudo apt-get upgrade -y
