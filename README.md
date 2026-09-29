@@ -1,7 +1,3 @@
-Aquí tens una versió del **README.md** actualitzada, adaptada exactament a l'estructura de carpetes del teu repositori i explicant la capa de hardware/firmware, les capes d'abstracció i la connexió del robot de manera ràpida i directa:
-
----
-
 # 🤖 Domibot - Capa de Hardware, Control i Firmware
 
 Aquest repositori conté la **capa de baix nivell i control de hardware** del projecte **Domibot**. Inclou el desenvolupament del "firmware" (controladors modulars en Python), els esquemes de connexió elèctrica, la documentació dels components i els tests de validació.
